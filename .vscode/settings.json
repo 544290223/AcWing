@@ -57,6 +57,8 @@
         "sstream": "cpp",
         "stdexcept": "cpp",
         "streambuf": "cpp",
-        "typeinfo": "cpp"
-    }, // 格式化时调整include的顺序（按字母排序）
+        "typeinfo": "cpp",
+        "xutility": "cpp"
+    },
+    "workbench.colorTheme": "Atom One Dark", // 格式化时调整include的顺序（按字母排序）
 }
