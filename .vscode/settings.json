@@ -60,5 +60,6 @@
         "typeinfo": "cpp",
         "xutility": "cpp"
     },
-    "workbench.colorTheme": "Atom One Dark", // 格式化时调整include的顺序（按字母排序）
+    "workbench.colorTheme": "One Monokai",
+    "C_Cpp.errorSquiggles": "Disabled", // 格式化时调整include的顺序（按字母排序）
 }
