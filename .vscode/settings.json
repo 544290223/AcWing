@@ -59,7 +59,8 @@
         "streambuf": "cpp",
         "typeinfo": "cpp",
         "xutility": "cpp",
-        "chrono": "cpp"
+        "chrono": "cpp",
+        "queue": "cpp"
     },
     "workbench.colorTheme": "Wutong Dark",
     "C_Cpp.errorSquiggles": "Enabled", // 格式化时调整include的顺序（按字母排序）

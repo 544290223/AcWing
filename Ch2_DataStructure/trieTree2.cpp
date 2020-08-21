@@ -2,6 +2,7 @@
 trie树，存储二进制树后快速查找最大异或对。
 */
 #include <iostream>
+#include <algorithm>
 using namespace std;
 
 const int N = 100010, M = 3000000; // 3bw怎么定
@@ -39,7 +40,7 @@ int main()
     }
     for(int i = 0; i < n; i++){
 
-        maxVal = __max(maxVal,query(a[i]));
+        maxVal = max(maxVal,query(a[i]));
     }
     cout << maxVal;
    
